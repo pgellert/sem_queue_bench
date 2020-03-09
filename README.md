@@ -6,4 +6,4 @@ The following plot shows the time taken to execute a simple producer-consumer sc
 
 ![alt text][performance_plot]
 
-[performance_plot]:  "Performance plot"
+[performance_plot]: https://raw.githubusercontent.com/pgellert/sem_queue_bench/master/performance.png "Performance plot"
